@@ -1,0 +1,47 @@
+
+
+
+#gallery_heading{
+	text-align:center;
+	color:#5d6a80;
+		}
+	
+	.head_section{
+	align:center;
+	margin:auto;
+	width:80%;
+	height:20%;}
+	
+	.head_section img{
+	width:100%;height:20%;
+	}
+	
+	.main_section{
+	padding:10px;
+	float:left;
+	width:40%;
+	height:auto;
+	margin:10px;
+	border: inset 1px black;
+	}
+	
+	.main_section img{
+	width:100%;
+	height:auto;
+	}
+	
+	.main_section figcaption{
+	}
+	
+	video{
+	width:90%;
+	height:auto;
+	border: inset 1px black;
+	}
+	
+	iframe{
+	width:90%;
+	height:auto;
+	border: inset 1px black;
+	}
+	
